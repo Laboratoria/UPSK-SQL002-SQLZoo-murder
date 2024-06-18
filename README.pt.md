@@ -54,14 +54,19 @@ A seguir está a ordem em que sugerimos seguir os tutoriais.
 12. [Self join](https://sqlzoo.net/wiki/Self_join)
 
     * [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
-    * [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
 
 13. [Using Null](https://sqlzoo.net/wiki/Using_Null)
 
-14. Completar os seguintes exercícios do HackerRank:
+## Hacker Edition
 
-    * [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
-    * [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
+Você pode fazer o tutorial [14. Window functions](https://sqlzoo.net/wiki/Window_functions) e tentar
+resolver os seguintes exercícios do HackerRank. Esses exercícios têm um alto nível de dificuldade.
+É normal que você tenha dificuldade para resolvê-los. No entanto, não deixe que isso te frustre. Tente resolvê-los e
+explore e discuta as diferentes alternativas de soluções com uma coach.
+
+ * [Interviews](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true)
+ * [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true)
+ * [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
 
 ## 3. Considerações para pedir seu Project Feedback
 
